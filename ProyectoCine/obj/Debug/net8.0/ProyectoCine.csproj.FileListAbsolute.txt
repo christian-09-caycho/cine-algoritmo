@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\bin\Debug\net8.0\ProyectoCine.exe
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\bin\Debug\net8.0\ProyectoCine.deps.json
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\bin\Debug\net8.0\ProyectoCine.runtimeconfig.json
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\bin\Debug\net8.0\ProyectoCine.dll
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\bin\Debug\net8.0\ProyectoCine.pdb
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\obj\Debug\net8.0\ProyectoCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\obj\Debug\net8.0\ProyectoCine.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\obj\Debug\net8.0\ProyectoCine.AssemblyInfo.cs
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\obj\Debug\net8.0\ProyectoCine.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\obj\Debug\net8.0\ProyectoCine.dll
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\obj\Debug\net8.0\refint\ProyectoCine.dll
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\obj\Debug\net8.0\ProyectoCine.pdb
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\obj\Debug\net8.0\ProyectoCine.genruntimeconfig.cache
+C:\Users\crist\source\repos\proyecto algoritmo\CineV2\ProyectoCine\ProyectoCine\obj\Debug\net8.0\ref\ProyectoCine.dll
